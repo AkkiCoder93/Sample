@@ -10,6 +10,7 @@ public class Github1Application {
 		SpringApplication.run(Github1Application.class, args);
 	
 	System.out.println("Updating file 1st time");
+	System.out.println("Updating file 2nd time");
 	}
 
 }
